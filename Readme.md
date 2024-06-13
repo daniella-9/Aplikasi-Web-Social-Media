@@ -22,4 +22,4 @@
 <img src="https://github.com/daniella-9/Aplikasi-Web-Social-Media/assets/87356260/5c571b2e-c3ec-4ca5-b128-0e7fdeea9039" width="500"/>
 
 <b>Halaman Posts<b><br>
-<img src="https://github.com/daniella-9/Aplikasi-Web-Social-Media/assets/87356260/665f6e4e-0b4e-438d-b1f7-f2860d4b16f3" width="500"/>
+<img src="https://github.com/daniella-9/Aplikasi-Web-Social-Media/assets/87356260/33d3d96a-f58c-47af-9027-eb61e72f3e68" width="500"/>
